@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "intro-section-with-dropdown-navigation-main",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
